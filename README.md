@@ -98,19 +98,19 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 #  Proyectos Destacados
 
-### 🎮 Aconcagua Gaming
+###  Aconcagua Gaming
 
 Organización eSports y proyectos relacionados con gaming.
 
 ---
 
-### 💻 Aconcagua Code
+###  Aconcagua Code
 
 Startup enfocada en desarrollo de software y soluciones digitales.
 
 ---
 
-# 📚 Actualmente aprendiendo
+#  Actualmente aprendiendo
 
 - Arquitectura de Software
 - Inteligencia Artificial
@@ -121,7 +121,7 @@ Startup enfocada en desarrollo de software y soluciones digitales.
 
 ---
 
-# 🌎 Conectemos
+#  Conectemos
 
 <p align="center">
 
@@ -141,6 +141,5 @@ Startup enfocada en desarrollo de software y soluciones digitales.
 
 ![](https://komarev.com/ghpvc/?username=EnzoAcevedo&color=blue&style=for-the-badge)
 
-### ⭐ "Code. Create. Learn. Repeat."
 
 </div>
