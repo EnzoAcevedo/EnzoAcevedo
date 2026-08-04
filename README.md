@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 Soy un desarrollador de software de Mendoza, Argentina, apasionado por crear aplicaciones modernas, herramientas inteligentes y videojuegos.
 
@@ -26,7 +26,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 ---
 
-# 🛠 Tecnologías
+#  Tecnologías
 
 <div align="center">
 
