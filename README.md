@@ -66,17 +66,6 @@ Startup enfocada en desarrollo de software y soluciones digitales.
 
 ---
 
-#  Actualmente aprendiendo
-
-- Arquitectura de Software
-- Inteligencia Artificial
-- Docker
-- APIs
-- DevOps
-- Clean Architecture
-
----
-
 #  Conectemos
 
 <p align="center">
