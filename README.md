@@ -57,11 +57,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 #  GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoAcevedo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAcevedo&layout=compact&theme=tokyonight&hide_border=true"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=EnzoAcevedo)](https://git.io/streak-stats)
 </div>
 
 ---
