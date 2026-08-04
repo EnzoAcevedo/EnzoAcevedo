@@ -54,7 +54,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 ---
 
-# 🔥 Contribution Streak
+#  Contribution Streak
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <div align="center">
 
@@ -96,19 +96,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 ---
 
-# 🚀 Proyectos Destacados
-
-### 🏢 DES Coordinador
-
-Sistema de gestión académica desarrollado con CodeIgniter.
-
----
-
-### 🏪 JuninComercial
-
-Directorio comercial para emprendedores y empresas.
-
----
+#  Proyectos Destacados
 
 ### 🎮 Aconcagua Gaming
 
