@@ -52,46 +52,6 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 </div>
 
----
-
-#  GitHub Stats
-
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=EnzoAcevedo)](https://git.io/streak-stats)
-</div>
-
----
-
-#  Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=EnzoAcevedo&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-#  Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoAcevedo&theme=tokyo-night"/>
-
-</div>
-
----
-
-#  GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EnzoAcevedo&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 #  Proyectos Destacados
 
 ###  Aconcagua Gaming
