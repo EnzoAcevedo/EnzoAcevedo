@@ -28,7 +28,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 #  Tecnologías
 
-<div align="center">
+<div align="left">
 
 ### Frontend
 
