@@ -37,11 +37,13 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-
+</div>
+<div align ="center">
 ### Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql" />
-
+</div>
+<div align="right">
 ### Game Development
 
 <img src="https://skillicons.dev/icons?i=unity,godot" />
