@@ -64,13 +64,13 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 Organización eSports y proyectos relacionados con gaming.
 
----
+
 
 ###  Aconcagua Code
 
 Startup enfocada en desarrollo de software y soluciones digitales.
 
----
+
 
 #  Conectemos
 
@@ -86,7 +86,7 @@ Startup enfocada en desarrollo de software y soluciones digitales.
 
 </p>
 
----
+
 
 <div align="center">
 
