@@ -59,15 +59,15 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 <h3>Proyectos Destacados</h3>
 
-**Aconcagua Gaming**
+<p>
+  <strong>🎮 Aconcagua Gaming</strong><br>
+  Organización eSports y proyectos relacionados con gaming.
+</p>
 
-Organización eSports y proyectos relacionados con gaming.
-
-
-
-**Aconcagua Code**
-
-Startup enfocada en desarrollo de software y soluciones digitales.
+<p>
+  <strong>💻 Aconcagua Code</strong><br>
+  Startup enfocada en desarrollo de software y soluciones digitales.
+</p>
 
 
 
