@@ -34,16 +34,16 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" />
     </td>
 
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <h3> Backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
     </td>
 
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <h3> Bases de Datos</h3>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
     </td>
-  </tr>
+</tr>
 
   <tr>
     <td align="center">
