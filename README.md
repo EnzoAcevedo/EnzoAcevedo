@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 ##  Sobre mí
 
@@ -24,7 +24,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 -  Integración de Inteligencia Artificial
 -  APIs y automatización
 
----
+
 
 ##  Tecnologías
 
