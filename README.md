@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy Enzo Acevedo
+#  ¡Hola! Soy Enzo Acevedo
 
 <div align="center">
 
-### 💻 Full Stack Developer | 🎮 Game Developer | 🤖 AI Enthusiast
+###  Full Stack Developer |  Game Developer |  AI Enthusiast
 
 *"Construyendo software, videojuegos y herramientas impulsadas por IA."*
 
@@ -16,17 +16,17 @@ Soy un desarrollador de software de Mendoza, Argentina, apasionado por crear apl
 
 Actualmente enfoco mi aprendizaje y desarrollo en:
 
-- 🌐 Desarrollo Web Full Stack
-- ⚛ React + TypeScript
-- 🟢 Node.js
-- 🗄 Bases de datos SQL
-- 🎮 Desarrollo de videojuegos con Unity y Godot
-- 🤖 Integración de Inteligencia Artificial
-- ☁ APIs y automatización
+-  Desarrollo Web Full Stack
+-  React + TypeScript
+-  Node.js
+-  Bases de datos SQL
+-  Desarrollo de videojuegos con Unity y Godot
+-  Integración de Inteligencia Artificial
+-  APIs y automatización
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 <table>
 <tr>
