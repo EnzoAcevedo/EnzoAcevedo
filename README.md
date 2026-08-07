@@ -9,7 +9,7 @@
 </div>
 
 
-<h1> Sobre mí</h1>
+<h3> Sobre mí</h>
 
 Soy un desarrollador de software de Mendoza, Argentina, apasionado por crear aplicaciones modernas, herramientas inteligentes y videojuegos.
 
@@ -25,7 +25,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 
 
-**Tecnologías**
+<h3>Tecnologías</h3>
 
 <table>
 <tr>
