@@ -29,20 +29,20 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 <table>
 <tr>
-<td align="center" width="33%">
-<h3> Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" />
-</td>
+  <td align="center" width="33%">
+    <h3> Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" />
+  </td>
 
-<td align="center" width="33%">
-<h3> Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
-</td>
+  <td align="center" width="33%">
+    <h3> Backend</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
+  </td>
 
-<td align="center" width="33%">
-<h3> Bases de Datos</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-</td>
+  <td align="center" width="33%">
+    <h3> Bases de Datos</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+  </td>
 </tr>
 
 <tr>
@@ -51,8 +51,8 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 <img src="https://skillicons.dev/icons?i=unity,godot,blender&theme=dark" />
 </td>
 <td align="center">
-<h3> Herramientas</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm&theme=dark" />
+  <h3> Herramientas</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm&theme=dark" />
 </td>
 </tr>
 </table>
@@ -60,12 +60,12 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 <h3>Proyectos Destacados</h3>
 
 <p>
-  <strong>🎮 Aconcagua Gaming</strong><br>
+  <strong> Aconcagua Gaming</strong><br>
   Organización eSports y proyectos relacionados con gaming.
 </p>
 
 <p>
-  <strong>💻 Aconcagua Code</strong><br>
+  <strong> Aconcagua Code</strong><br>
   Startup enfocada en desarrollo de software y soluciones digitales.
 </p>
 
