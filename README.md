@@ -9,7 +9,7 @@
 </div>
 
 
-<h4>Sobre mí</h4>
+<h3>Sobre mí</h3>
 
 Soy un desarrollador de software de Mendoza, Argentina, apasionado por crear aplicaciones modernas, herramientas inteligentes y videojuegos.
 
@@ -57,7 +57,7 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 </tr>
 </table>
 
-**Proyectos Destacados**
+<h3>Proyectos Destacados</h3>
 
 **Aconcagua Gaming**
 
@@ -71,7 +71,7 @@ Startup enfocada en desarrollo de software y soluciones digitales.
 
 
 
-**Conectemos**
+<h3>Conectemos</h3>
 
 <p align="center">
 
