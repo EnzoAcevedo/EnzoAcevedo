@@ -28,33 +28,48 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 
 #  Tecnologías
 
-<div align="left">
-
-### Frontend
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### Frontend 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+</td>
+<td align="center" width="50%">
 
-### Backend
+###Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</div>
-<div align ="center">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+  ###Base de Datos 
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
   
-### Bases de Datos
+</td>
 
-<img src="https://skillicons.dev/icons?i=mysql" />
-</div>
-<div align="right">
+<td align="center">
   
-### Game Development
+### Game Development 
 
-<img src="https://skillicons.dev/icons?i=unity,godot" />
-
+<img src="https://skillicons.dev/icons?i=unity,godot,blender" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  
 ### Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm,linux" />
 
-</div>
+</td>
+</tr>
+</table>
 
 #  Proyectos Destacados
 
