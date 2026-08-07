@@ -28,33 +28,33 @@ Actualmente enfoco mi aprendizaje y desarrollo en:
 <h3>Tecnologías</h3>
 
 <table>
-<tr>
-  <td align="center" width="33%">
-    <h3> Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" />
-  </td>
+  <tr>
+    <td align="center" width="33%">
+      <h3> Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" />
+    </td>
 
-  <td align="center" width="33%">
-    <h3> Backend</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
-  </td>
+    <td align="center" width="33%">
+      <h3> Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
+    </td>
 
-  <td align="center" width="33%">
-    <h3> Bases de Datos</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-  </td>
-</tr>
+    <td align="center" width="33%">
+      <h3> Bases de Datos</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+    </td>
+  </tr>
 
-<tr>
-<td align="center">
-<h3> Game Development</h3>
-<img src="https://skillicons.dev/icons?i=unity,godot,blender&theme=dark" />
-</td>
-<td align="center">
-  <h3> Herramientas</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm&theme=dark" />
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <h3> Game Development</h3>
+      <img src="https://skillicons.dev/icons?i=unity,godot,blender&theme=dark" />
+    </td>
+    <td align="center">
+      <h3> Herramientas</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm&theme=dark" />
+    </td>
+  </tr>
 </table>
 
 <h3>Proyectos Destacados</h3>
